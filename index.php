@@ -2,7 +2,7 @@
 define('API_KEY','1297794420:AAGqPUEDc0rkogT36ocpaYdI4MDCQKYdOkE');
 $admin = "621617473";
 $kanal = "-1001421683503";
-
+/*
 
 function joinchat($from){
      global $message_id;
@@ -60,7 +60,7 @@ return bot('answerCallbackQuery', [
 'text' => $text,
 'show_alert' => $showAlert,
 ]);
-}
+}*/
 
 function bot($method,$datas=[]){
     $url = "https://api.telegram.org/bot".API_KEY."/".$method;
