@@ -1,5 +1,5 @@
 <?php
-define('API_KEY','991611342:AAHRpH1sINiKiwRLOb-HAQlaHlkaGFVOicQ');
+define('API_KEY','1297794420:AAGqPUEDc0rkogT36ocpaYdI4MDCQKYdOkE');
 $admin = "621617473";
 $kanal = "-1001421683503";
 
